@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+.circle-content{
+    font-family: Arial;
+    color: #fff;
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.circle{
+
+    background-color: #7cf0ff;
+    border-radius:50%;
+    position: absolute;
+    overflow: hidden;
+
+}
+
+.circle-reset{
+
+    background-color: #000;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 0;
+    right: 15px;
+
+}
+
+.circle-container{
+    position: absolute;
+}

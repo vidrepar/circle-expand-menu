@@ -1,0 +1,21 @@
+{
+  "name": "circle-expand-menu",
+  "authors": [
+    "vidrepar <vid.repar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "jquery.transit": "^0.9.12"
+  }
+}
